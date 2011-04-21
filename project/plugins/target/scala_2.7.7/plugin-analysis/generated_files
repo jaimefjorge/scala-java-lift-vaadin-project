@@ -1,0 +1,3 @@
+#Generated Classes
+#Thu Apr 21 23:27:08 WEST 2011
+src_managed/sbt-vaadin-plugin-0.1.3/fi/jawsy/sbtplugins/vaadin/VaadinPlugin.scala=target/scala_2.7.7/plugin-classes/fi/jawsy/sbtplugins/vaadin/VaadinPlugin$$anonfun$vaadinCompileTask$1.class\:target/scala_2.7.7/plugin-classes/fi/jawsy/sbtplugins/vaadin/VaadinPlugin$.class\:target/scala_2.7.7/plugin-classes/fi/jawsy/sbtplugins/vaadin/VaadinPlugin$class.class\:target/scala_2.7.7/plugin-classes/fi/jawsy/sbtplugins/vaadin/VaadinPlugin$$anonfun$autoVaadinCompileTask$1.class\:target/scala_2.7.7/plugin-classes/fi/jawsy/sbtplugins/vaadin/VaadinPlugin.class
