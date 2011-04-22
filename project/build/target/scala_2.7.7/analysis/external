@@ -1,5 +1,5 @@
 #External Dependencies
-#Fri Apr 22 00:45:27 WEST 2011
+#Fri Apr 22 01:01:15 WEST 2011
 /media/DATA/sandbox/project/boot/scala-2.7.7/lib/scala-library.jar=Project.scala
 /media/DATA/sandbox/project/plugins/target/scala_2.7.7/plugin-classes/fi/jawsy/sbtplugins/vaadin/VaadinPlugin.class=Project.scala
 /media/DATA/sandbox/project/plugins/target/scala_2.7.7/plugin-classes/fi/jawsy/sbtplugins/vaadin/VaadinPlugin$class.class=Project.scala
