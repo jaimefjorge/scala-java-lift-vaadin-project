@@ -12,7 +12,7 @@ You should have SBT installed.
 
 Deployment
 ---------------------
-Also you should make sure that web.xml is (after compilation and deployment) in the right folder (default is <project-name>/target/scala***/webapps/WEB-INF/
+Also you should make sure that web.xml is (after compilation) in the right folder (default is <project-name>/target/scala***/webapps/WEB-INF/
 
 Feedback
 ---------------------
